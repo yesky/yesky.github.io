@@ -1,2 +1,2 @@
-# dawnyesky.github.io
-Personal website
+# Shankai Yan's Blog
+[Personal academic blog](https://skyan.eu.org)
